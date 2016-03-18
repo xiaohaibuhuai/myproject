@@ -5,3 +5,6 @@ Git tracks changes.
 Git is haha huhuhahao
 My stupid boss still prefers SVN.
 Create a new branch is quick and simple.
+
+
+learn --no-ff classfiation
