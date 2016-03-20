@@ -7,3 +7,4 @@ My stupid boss still prefers SVN.
 Create a new branch is quick and simple.
 
 test stash
+again test merge
